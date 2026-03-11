@@ -1,0 +1,8 @@
+title: AI-Adventist 的博客
+description: 记录技术与生活
+theme: minima
+author:
+  name: AI-Adventist
+  email: your@email.com
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
